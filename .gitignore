@@ -15,3 +15,4 @@ outputs/
 **/*.out
 *.deb
 *.pin
+/data_odometry_velodyne
